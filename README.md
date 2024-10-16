@@ -25,3 +25,4 @@ Install my-project with git
 
 ## Screenshots
 
+<img src="Resources/background.png" width="4000px">
