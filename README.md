@@ -20,7 +20,7 @@ for schools something else, The main purpose of a face recognition attendance sy
 Install my-project with git
 
 ```bash
-  git clone 
+  git clone https://github.com/Enginland/Face-Attendances.git
 ```
 
 ## Screenshots
