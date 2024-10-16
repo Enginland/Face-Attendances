@@ -16,13 +16,19 @@ for schools something else, The main purpose of a face recognition attendance sy
 
 
 ## Installation
+Make sure you have Python or Python3, if you not click the link below to setup Python first
+
+## 🚀 [**Download Python Here!**](https://www.python.org/downloads/) 🐍
+
 
 Install my-project with git
 
 ```bash
   git clone https://github.com/Enginland/Face-Attendances.git
 ```
-
+###
+###
+###
 ## Screenshots
 
 <img src="Resources/background.png" width="4000px">
