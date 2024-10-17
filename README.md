@@ -25,6 +25,8 @@ Install my-project with git
 ```bash
   git clone https://github.com/Enginland/Face-Attendances.git
 ```
+Download by zip
+## 🚀 [**Download Project Here!**](https://github.com/Enginland/Face-Attendances/archive/refs/heads/main.zip) 📁
 ###
 ###
 ###
