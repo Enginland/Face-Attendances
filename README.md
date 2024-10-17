@@ -3,7 +3,6 @@
 <h1 align="center">Face Recognition Attendances</h1>
 <p align="center">
 for schools something else, The main purpose of a face recognition attendance system is to provide a contactless and efficient way of marking person entry and exit times. 1. Face detection: The system detects the presence of a face in the image. 2. Face recognition: The system compares the extracted features with the features in the database to identify the person. 3. Attendance marking: The system marks the attendance of the identified person.
-
 </p>
 
 ## Features
