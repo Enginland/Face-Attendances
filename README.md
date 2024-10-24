@@ -29,6 +29,9 @@ Download by zip
 ## 🚀 [**Download Project Here!**](https://github.com/Enginland/Face-Attendances/archive/refs/heads/main.zip) 📁
 ###
 ###
+Before you can use this tool you need to train the data
+
+###
 ###
 ## Screenshots
 
